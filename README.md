@@ -1,6 +1,5 @@
 # Testnetrun-Assets
-Variable assets for testnetrun explorer
-
+Variable assets for testnetrun explorer.
 ## Supported chains: 
 
 - All cosmos-based chains
